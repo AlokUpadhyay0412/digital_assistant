@@ -1,0 +1,69 @@
+{
+  "questions":
+[
+    {
+        "question": "Hello",
+        "answer": "Hi! How can I assist you with NASA-related queries today?"
+    },
+    {
+        "question": "What is NASA?",
+        "answer": "NASA, the National Aeronautics and Space Administration, is the United States government agency responsible for space exploration, scientific discovery, and aeronautics research."
+    },
+    {
+        "question": "When was NASA founded?",
+        "answer": "NASA was founded on July 29, 1958, by President Dwight D. Eisenhower."
+    },
+    {
+        "question": "What was NASA's first space mission?",
+        "answer": "NASA's first human spaceflight mission was Project Mercury, which launched astronaut Alan Shepard on a suborbital flight in 1961."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100°C or 212°F at sea level."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "answer": "The play 'Romeo and Juliet' was written by William Shakespeare."
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "The speed of light is approximately 299,792 kilometers per second (186,282 miles per second)."
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answer": "The tallest mountain in the world is Mount Everest, standing at 8,848 meters (29,029 feet) above sea level."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "The chemical symbol for gold is Au."
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "answer": "The first President of the United States was George Washington."
+    },
+    {
+      "question": "What is the distance between the Earth and the Sun?",
+      "answer": "The average distance between the Earth and the Sun is about 93 million miles (150 million kilometers)."
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answer": "The largest ocean on Earth is the Pacific Ocean."
+    },
+    {
+        "question": "What was NASA's New Horizons mission?",
+        "answer": "NASA's New Horizons mission was the first spacecraft to fly by Pluto, capturing detailed images and data of the dwarf planet in 2015."
+    },
+    {
+        "question": "What was the purpose of NASA's Mars Exploration Rover mission?",
+        "answer": "The Mars Exploration Rover mission sent two rovers, Spirit and Opportunity, to explore the Martian surface, studying its geology and searching for signs of water."
+    }
+]
+}
